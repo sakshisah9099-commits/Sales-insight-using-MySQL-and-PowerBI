@@ -1,0 +1,1 @@
+A Power BI and MySQL-driven sales analytics project analyzing four years of revenue, profit, and market performance. Highlights key insights such as Delhi NCR’s 52.8% revenue share, Bhubaneshwar’s highest profit margin, and Bengaluru’s negative profitability. Includes customer, product, and trend analysis with interactive dashboards and DAX measures.
